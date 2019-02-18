@@ -1,0 +1,19 @@
+{
+  "name": "learn-es6",
+  "version": "1.0.0",
+  "description": "This is a learning es6 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AslamPangestu/learn-es6.git"
+  },
+  "author": "@aslampangestu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AslamPangestu/learn-es6/issues"
+  },
+  "homepage": "https://github.com/AslamPangestu/learn-es6#readme"
+}
